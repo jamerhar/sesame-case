@@ -12,7 +12,7 @@
  |8|M2x5mm Button Head Screw|
  |4|Adhesive Rubber Bumpons|
  
- This case currently has just an open bottom, with the original intent to make an acrylic or metal bottom piece. This was never gotten around to and is used as is. There are mounting points for bottom case attachment already in the design. I had my case printed through JLCPCB's resin 3D printing services and was successful with their 8000 resin with no warping present.
+ This case currently has just an open bottom, with the original intent to make an acrylic or metal bottom piece. This was never gotten around to and is used as is. There are mounting points for bottom case attachment already in the design. I had my case printed through JLCPCB's resin 3D printing services and was successful with their 8000 resin with no warping present. Threaded brass inserts are [purchasable on McMaster](https://www.mcmaster.com/94510A611/).
  
 ### Disclaimer
 I do not offer any sort of warranty, nor can I be held liable if something goes wrong.
