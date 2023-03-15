@@ -17,3 +17,7 @@
 ### Disclaimer
 I do not offer any sort of warranty, nor can I be held liable if something goes wrong.
 Please thoroughly review the design, especially involving the case, before ordering anything. There are possibly small errors and other defects within the design, this was my first attempt at case design and it is by no means perfect.
+
+### Additional Pictures
+Top mount plate:
+![image](https://user-images.githubusercontent.com/68519705/225180138-3acd2d94-6341-4847-a995-4a639dd2d064.png)
